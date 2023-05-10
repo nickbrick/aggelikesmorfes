@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/wp-sitemap.xml">
+		<meta http-equiv="refresh" content="0;url=/aggelikesmorfes/wp-sitemap.xml">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/wp-sitemap.xml";
+			window.location = "/aggelikesmorfes/wp-sitemap.xml";
 		</script>
 
-		<p>You are being redirected to <a href="/wp-sitemap.xml">/wp-sitemap.xml</a></p>
+		<p>You are being redirected to <a href="/aggelikesmorfes/wp-sitemap.xml">/aggelikesmorfes/wp-sitemap.xml</a></p>
 	</body>
 </html>
